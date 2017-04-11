@@ -1,0 +1,9 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+public enum Suit {
+    Hearts = 1,
+    Diamonds = 2,
+    Clubs = 3,
+    Spades = 4
+}
